@@ -225,8 +225,8 @@ GameObject:
   m_Component:
   - component: {fileID: 540150575}
   - component: {fileID: 540150574}
-  - component: {fileID: 540150576}
   - component: {fileID: 540150573}
+  - component: {fileID: 540150576}
   - component: {fileID: 540150572}
   m_Layer: 0
   m_Name: Player
@@ -386,6 +386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1d0d8620ed954545ba9d2012d0f1014, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1 &746049649
 GameObject:
   m_ObjectHideFlags: 0
